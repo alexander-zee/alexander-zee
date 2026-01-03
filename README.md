@@ -8,7 +8,9 @@ I enjoy building practical tools that combine financial theory, data engineering
 * 🎓  Econometrics and Operations Research | Erasmus School of Economics
 * 👨‍💻Managing bookkeeping for multiple SME clients in the *ODOO* ERP, including automating bank reconciliation for 4 clients at Finance Matters.
 * ♟️Editorial Committee Member at my local chess club, contributing to writing an annual book documenting internal and external (K.N.V.B.) Chess competitions and their standings.
-- 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/alexanderzee/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="16" style="vertical-align:middle"/></a> https://www.linkedin.com/in/alexanderzee/
+- 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/alexanderzee/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="16"/>
+</a>
 
 
 
