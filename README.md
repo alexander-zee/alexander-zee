@@ -8,13 +8,15 @@ I enjoy building practical tools that combine financial theory, data engineering
 * 🎓  Econometrics and Operations Research | Erasmus School of Economics
 * 👨‍💻Managing bookkeeping for multiple SME clients in the *ODOO* ERP, including automating bank reconciliation for 4 clients at Finance Matters.
 * ♟️Editorial Committee Member at my local chess club, contributing to writing an annual book documenting internal and external (K.N.V.B.) Chess competitions and their standings.
-* 💼 LinkedIn: https://www.linkedin.com/in/alexanderzee/
+* 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderzee/)
+
 
 ⏰ Challenges for myself:
 -----------------------------------------------------------------------------------------------------
 * upload a (quantitative finance related) project on github as soon as the idea pops into my head
 * workout a minimum of 3 times a week
 * avoid overusage of social media
+* Participating in **trading and quantitative challenges** to sharpen applied skills
 
 
 🌱 Open to Collaboration
