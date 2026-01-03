@@ -1,7 +1,7 @@
 ## Hi, I'm Alexander 👋
 
 I’m an **Econometrics & Operations Research student** in the Netherlands with a strong interest in **Quantitative Finance, Automation, and Data-Driven Analytics**.  
-I enjoy building practical tools that combine financial theory, data engineering -and visualization.
+I enjoy building practical tools that combine financial theory, data engineering, and visualization.
 
 🚀 About Me
 -----------------------------------------------------------------------------------------------------
