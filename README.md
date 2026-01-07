@@ -12,16 +12,6 @@ I enjoy building practical tools that combine financial theory, data engineering
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="16"/>
 </a>
 
-
-
-⏰ Challenges for myself:
------------------------------------------------------------------------------------------------------
-* upload a (quantitative finance related) project on github as soon as the idea pops into my head
-* workout a minimum of 3 times a week
-* avoid overusage of social media
-* Participating in **trading and quantitative challenges** to sharpen applied skills
-
-
 🌱 Open to Collaboration
 -----------------------------------------------------------------------------------------------------
 I'm always interested in collaborating on exciting data science projects or contributing to open-source initiatives. Feel free to reach out if you have a project idea or just want to connect.
