@@ -1,19 +1,20 @@
-## Hi, I'm Alexander 👋
+## Alexander Zee
 
-I’m an **Econometrics & Operations Research student** in the Netherlands with a strong interest in **Quantitative Finance, Automation, and Data-Driven Analytics**.  
-I focus on building practical tools that combine financial theory, data engineering, and clear visualisation.
+BSc Econometrics & Operations Research student (Quantitative Finance) at Erasmus University Rotterdam.  
+Focused on quantitative modelling, time series analysis, and building analytical tools for financial data.
 
-🚀 About Me
------------------------------------------------------------------------------------------------------
-* 🎓 Econometrics & Operations Research (Quantitative Finance) — Erasmus School of Economics
-* 👨‍💻 Managing bookkeeping and automated bank reconciliation for multiple SME clients using **Odoo ERP** at Finance Matters
-* ♟️ Editorial Committee Member at my local chess club, contributing to the writing and editing of an annual competition book (internal & K.N.V.B.)
+### Background
+- Econometrics & Operations Research — Erasmus School of Economics  
+- Experience developing data pipelines, analytical dashboards, and automation tools in Python and R  
+- Practical exposure to structured financial data, reconciliation processes, and process automation in Odoo ERP  
 
-💼 **LinkedIn:** <a href="https://www.linkedin.com/in/alexanderzee/">
+### Interests
+- Volatility modelling and time series analysis  
+- Quantitative finance and derivatives  
+- Data engineering and analytical tooling  
+
+### Contact
+- LinkedIn: <a href="https://www.linkedin.com/in/alexanderzee/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="16"/>
 </a>
-
-🌱 Open to Collaboration
------------------------------------------------------------------------------------------------------
-Open to collaborating on data-driven projects involving quantitative modelling, financial data analysis, or automation.  
-Feel free to reach out if you’d like to exchange ideas or work on something concrete.
+- Email: alexanderzee11@gmail.com
